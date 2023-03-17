@@ -5,5 +5,5 @@ What is the probability that a chosen random number from 1 to n turns out to be 
 U can use this file to solve this problem
 
 # Files
-In uploaded files u can see example for 100000
+In uploaded files u can see example for 100000\n
 U can use this data to make graph like pic.jpg
